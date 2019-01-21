@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">smallestWidthExample</string>
+
+    <string name="strPromptSexo">Sexo</string>
+    <string name="strPromptMunicipios">Municipios</string>
+    <string name="strPromptOcupaciones">Ocupaciones</string>
+    <string name="strPromptGradosDeEstudios">Grados de Estudios</string>
+</resources>
